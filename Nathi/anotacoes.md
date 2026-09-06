@@ -1,7 +1,7 @@
-Meu nome é Nathi.
+Meu nome é Nathália.
 
 Estou realizando uma atividade de Análise e Desenvolvimento de Sistemas para aprender Git e GitHub.
 
-Nesta atividade estou aprendendo a criar commits e enviar alterações para um repositório.
+Nesta atividade estou aprendendo a criar commits, registrar alterações e enviar arquivos para um repositório.
 
-Também estou aprendendo como os comias registram as alterações realizadas no projeto.
+Estou aprendendo a trabalhar com versionamento de código e a registrar as alterações realizadas no projeto.
